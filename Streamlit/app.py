@@ -237,8 +237,10 @@ def adopter():
 					else:
 						x = df["Breed2"][a]
 					st.write('Breed1, Breed2:',df["Breed1"][a],',',x)
-					st.write('Sterilized:',df["Sterilized"][a])		
+					st.write('Sterilized:',df["Sterilized"][a])
+					st.write('Gender:',df["Gender"][a])		
 					st.write('Age:',df["Age"][a],'months')	
+					st.write('State:',df["State"][a])
 					st.write('Description:',df["Description"][a])
 					st.write('\n')
 
@@ -276,11 +278,14 @@ def petsinfo():
 	st.write("Souce: ValorInveste.globo.com")
 
 	
-	st.header("Quais as principais caracteristicas de cada raça?")
-	st.subheader('Breed1:')
-	st.write('bla bla bla')
-	
+	st.header("Caracteristicas principais de cada raça:")
+	st.subheader('• Pit Bull Terrier:')
+	st.write('O Pitbull assimila bem os comandos e é considerado um excelente companheiro para os donos que podem gastar um pouco de seu tempo com eles. Com as crianças eles são muito tolerantes, se deixando ser tocado por elas e ficando feliz em participar das brincadeiras.')
+	st.write('O Pitbull pode se adaptar bem em uma casa pequena, mas por ser um cão tão enérgico, é necessário levá-lo para dar grandes passeios todos os dias, além de proporcionar brincadeiras regularmente. Ele deve começar a socializar desde pequeno.')
 
+	st.subheader('• Mixed Breed:')
+	st.write('Justamente por ser um cão que não tenha uma carga genética exclusiva, o vira-lata é o resultado de uma seleção natural, por onde podem ter passado várias raças no passado.')
+	
 #Sidebar
 st.sidebar.title("Searching for a friend?")
 radio = st.sidebar.radio(label="Who are you?", options=["ONG", "Adopter", "+Pets Info"])
