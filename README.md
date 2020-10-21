@@ -66,7 +66,7 @@ You can check the slides <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi
 - Implement a search by image;
 
 ### Thanks
-A special thanks for the IronHack teachers, who helped me a lot during the development of project.<br>
+A special thanks for IronHack teachers, who helped me a lot during the development of project.<br>
 <a href="https://github.com/aguiarandre">André Aguiar</a><br>
 Yuri Felix Guimarães
 
