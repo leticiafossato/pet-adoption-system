@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/bBzdVnN/patah.jpg" alt="patah" border="0"></a>
 </p>
-<h1 align="center">🧹 Final Project | Pet Adoption System</h>
+<h1 align="center">🐶 Pet Adoption System 😾 </h>
+<h2 align="center">IronHack Final Project</h>
 
 ## Project Status
 👣 In progress
