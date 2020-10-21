@@ -33,6 +33,12 @@ The proposal here is to suggest animal that in most part of times are not even l
 
 
 ## Results 
+
+### Streamlit
+Link of app:<br>
+Demo video <br>
+
+### Slides
 You can check the slides <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi5UT_zQWrkVkfXpbvsAm/view?usp=sharing">here</a>.
 
 ## Learning Process
