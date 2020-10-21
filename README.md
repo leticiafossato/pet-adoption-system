@@ -17,7 +17,7 @@
 - [Author](#Author)
 
 ## Objective
-Create an app to recommend animals (cats and dogs). This system will always recommend the ten pets which low probability of adoption.<br>
+Create an app to recommend animals (cats and dogs). This system will always recommend the ten pets which have low probability of adoption.<br>
 The idea here is to make partnership with ONGs, but for now, was developed only a prototype of the system using a Kaggle dataset <a href="https://www.kaggle.com/c/petfinder-adoption-prediction">PetFinder.my Adoption Prediction</a>.
 
 ## Motivation
