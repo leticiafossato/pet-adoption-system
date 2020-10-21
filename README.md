@@ -20,7 +20,7 @@
 Create an app to recommend animals (cats and dogs). This system will always recommend the ten pets which low probability of adoption.<br>
 The idea here is to make partnetship with ONGs, but for now, was developed only a prototype of the system using a Kaggle dataset <a href="https://www.kaggle.com/c/petfinder-adoption-prediction">PetFinder.my Adoption Prediction</a>.
 
-### Motivation
+## Motivation
 There are 170 thousand of abandoned animals under ONGs care in Brazil, and a lot of people only adopt looking for the appearence.<br>
 The proposal here is to suggest animal that in most part of times are not even looked.<br>
 
