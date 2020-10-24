@@ -35,8 +35,8 @@ The proposal here is to suggest animals that in most part of times aren't even l
 ## Results 
 
 ### Streamlit
-Link of app:<br>
-Demo video <br>
+Link of app: *pendent, to add*<br>
+Demo video  *pendent, to add*<br>
 
 ### Slides
 You can check the slides <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi5UT_zQWrkVkfXpbvsAm/view?usp=sharing">here</a>.
@@ -60,8 +60,8 @@ You can check the slides <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi
 - Find a good model to predict the probabilities;
 
 ### Improvements
-- Improve the model;
-- Build a dataset using data from a Brazilian ONG;
+- Improve the model (considering images and descriptions);
+- Build a dataset using some Brazilian ONG information;
 - Improve streamlit design;
 - Implement a search by image;
 - Load the site into Heroku;
