@@ -22,7 +22,7 @@ The idea here is to make partnership with ONGs, but for now, was developed only 
 
 ## Motivation
 There are 170 thousand of abandoned animals under ONGs care in Brazil, and a lot of people only adopt looking for the appearence.<br>
-The proposal here is to suggest animal that in most part of times are not even looked.<br>
+The proposal here is to suggest animals that in most part of times aren't even looked.<br>
 
 ## Process
 1. Create a baseline to find the best model;
@@ -60,10 +60,11 @@ You can check the slides <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi
 - Find a good model to predict the probabilities;
 
 ### Improvements
-- Load the site into Heroku;
+- Improve the model;
 - Build a dataset using data from a Brazilian ONG;
 - Improve streamlit design;
 - Implement a search by image;
+- Load the site into Heroku;
 
 ### Thanks
 A special thanks for IronHack teachers, who helped me a lot during the development of project.<br>
